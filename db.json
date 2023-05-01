@@ -1,0 +1,137 @@
+{
+    "product": [
+        {
+            "img": "https://m.media-amazon.com/images/I/61wnFKjF1EL._SL1500_.jpg",
+            "title": "Realme buds",
+            "details": "",
+            "price": "1200",
+            "stock": "Limited Stock",
+            "id": 3
+        },
+        {
+            "img": "https://m.media-amazon.com/images/I/61cwywLZR-L._SL1500_.jpg",
+            "title": "Iphone 14",
+            "details": "",
+            "price": "71500",
+            "stock": "Limited Stock",
+            "id": 4
+        },
+        {
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "",
+            "price": "1,19,200",
+            "stock": "Out Of Stock",
+            "id": 5
+        },
+        {
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone Pro",
+            "details": "",
+            "price": "1,19,900",
+            "stock": "Out Of Stock",
+            "id": 6
+        }
+    ],
+    "products": [
+        {
+            "img": "https://m.media-amazon.com/images/I/61wnFKjF1EL._SL1500_.jpg",
+            "title": "Realme buds",
+            "details": "[Dual Noise Cancellation (ANC + ENC)] - The truke Buds Vibe ANC offers Dual Noise Cancellation with up to 35dB Active Noise Cancellation Mode.",
+            "price": "1200",
+            
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel",
+            "price": "85600",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/71PZK6gQJcL._UL1500_.jpg",
+            "title": "Jorden",
+            "details": "WHAT YOU GET: 1. One Pair of Sports Shoes as shown in the pictures. 2. Storage Box. 3. Sparx Trust.",
+            "price": "52000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/61K8FS335JL._SL1500_.jpg",
+            "title": "Jbl bluetooh speaker",
+            "details": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel",
+            "price": "62000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "[Dual Noise Cancellation (ANC + ENC)] - The truke Buds Vibe ANC offers Dual Noise Cancellation with up to 35dB Active Noise Cancellation Mode.",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam, consequatur0?",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "   Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, veniam soluta praesentium tenetur beatae iste quam quasi aperiam!",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/61K8FS335JL._SL1500_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "Aperiam veritatis esse sequi iste perferendis eveniet doloribus officiis provident voluptatum exercitationem, corrupti quasi neque vitae placeat ex accusamus atque laboriosam illo voluptatibus at rem ratione! Sunt aut molestiae porro eius veniam labore. Placeat aliquid autem, sit rem ",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "[Dual Noise Cancellation (ANC + ENC)] - The truke Buds Vibe ANC offers Dual Noise Cancellation with up to 35dB Active Noise Cancellation Mode.",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Echo Dot (3rd Gen)",
+            "details": "laudantium dolores porro tenetur incidunt blanditiis numquam corporis, suscipit dolorem repudiandae, culpa soluta magni accusantium. Magnam harum doloribus facilis perspiciatis molestiae cupiditate rerum a, natus aliquam sint aspernatur quasi unde veritatis nobis, non praesentium fugit quam nulla veniam porro consequatur ipsa similique sequi delectus? Sequi commodi doloribus dicta deleniti atque magni, quae tenetur sunt, voluptate natus",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "mart speaker with Alexa (Black)",
+            "details": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/61K8FS335JL._SL1500_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel ex accusamus atque laboriosam illo voluptatibus at rem ratione! Sunt aut molestiae porro eius veniam labore. Placeat aliquid autem, sit rem ",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "ex accusamus atque laboriosam illo voluptatibus at rem ratione! Sunt aut molestiae porro eius veniam labore. Placeat aliquid autem, sit rem ",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/31MX9scnEzL._SY445_SX342_QL70_FMwebp_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "mollitia ipsam quas voluptas expedita est fugit? Sapiente, earum eligendi amet doloribus nesciunt porro, aliquam molestias exercitationem id accusamus rem ipsum at culpa! Veniam quia vero sapiente eveniet, expedita enim provident doloribus. Deleniti expedita aliquam, quisquam ",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/71PZK6gQJcL._UL1500_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "debitis quam corporis et adipisci assumenda ipsum, placeat ab inventore, sequi impedit voluptatem quasi laboriosam! Quia quam, ut quos aliquid necessitatibus nemo facilis neque fugiat nam exercitationem nulla, dolorem voluptatum ipsam aliquam facere tempora voluptatibus expedita id harum!",
+            "price": "120000",
+            "id": 3
+        },{
+            "img": "https://m.media-amazon.com/images/I/61wnFKjF1EL._SL1500_.jpg",
+            "title": "Iphone 14 Pro",
+            "details": "distinctio. Suscipit unde, sunt reiciendis maiores sed deleniti accusamus. Sit nesciunt placeat omnis quo reprehenderit nihil cum dignissimos",
+            "price": "120000",
+            "id": 3
+        }
+        
+    ]
+}
